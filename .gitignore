@@ -4,3 +4,4 @@ token.rds
 responses/*
 .Rhistory
 .RData
+rsconnect/*
