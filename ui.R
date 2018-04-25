@@ -23,7 +23,6 @@ shinyUI(pageWithSidebar(
             h5(textOutput("counter"))
       ),
 
-
   # Show a table summarizing the values entered
   mainPanel(
     # Main Action is where most everything is happenning in the
