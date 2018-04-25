@@ -1,0 +1,6 @@
+.httr-oauth
+token.rds
+.Rproj.user
+responses/*
+.Rhistory
+.RData
