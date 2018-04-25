@@ -6,3 +6,4 @@ responses/*
 .RData
 imagesurvey.Rproj
 rsconnect/*
+imagesurvey.dcf
